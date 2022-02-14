@@ -1,0 +1,17 @@
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\Deslocamentos.Application.deps.json
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\Deslocamentos.Application.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\ref\Deslocamentos.Application.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\Deslocamentos.Application.pdb
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\Deslocamentos.Data.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\Deslocamentos.Domain.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\Deslocamentos.Data.pdb
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\bin\Debug\net6.0\Deslocamentos.Domain.pdb
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.AssemblyInfo.cs
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.csproj.CopyComplete
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\ref\Deslocamentos.Application.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Aplication\obj\Debug\net6.0\Deslocamentos.Application.pdb

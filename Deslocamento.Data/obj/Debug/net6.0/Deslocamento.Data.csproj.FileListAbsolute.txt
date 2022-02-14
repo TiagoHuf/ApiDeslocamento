@@ -1,0 +1,17 @@
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\Deslocamento.Data.deps.json
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\Deslocamento.Data.runtimeconfig.json
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\Deslocamento.Data.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\ref\Deslocamento.Data.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\Deslocamento.Data.pdb
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\Deslocamento.Domain.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\bin\Debug\net6.0\Deslocamento.Domain.pdb
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.AssemblyInfo.cs
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.csproj.CopyComplete
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\ref\Deslocamento.Data.dll
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.pdb
+C:\Users\tiago\Desktop\API Deslocamento\Deslocamento\Deslocamento.Data\obj\Debug\net6.0\Deslocamento.Data.genruntimeconfig.cache
